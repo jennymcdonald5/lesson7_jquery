@@ -4,20 +4,23 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jennifer McDonald)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(A recipe's ingredients and instructions can be viewed on the application
+when a user clicks the associated headers. JQuery will be used to build the
+application and edit the elements.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jennymcdonald5.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery allows developers to implement common JavaScript tasks with a small
+    amount of code involved.)
+2. (Every single jQuery statement begins with a dollar sign which lets the 
+    application know that the following code should be interpreted using jQuery.)
+3. (CSS selector is put in quotes in order to select elements.)
 
